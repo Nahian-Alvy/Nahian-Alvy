@@ -18,5 +18,5 @@
 
 
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Nahian-Alvy)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nahian-Alvy&theme=onedark_icons=true)
 
