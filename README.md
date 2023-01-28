@@ -1,5 +1,7 @@
-### Hi there 👋
+![](https://komarev.com/ghpvc/?username=Nahian-Alvy-github-username&style=for-the-badge)
 
+
+### Hi there 👋
 
 
 🔭 I’m currently working on nothing 
