@@ -3,8 +3,14 @@
 
 
 🔭 I’m currently working on nothing 
+
+
 🌱 I’m currently learning something
+
+
 👯 I’m looking to collaborate on evrything
+
+
 🤔 I’m looking for help with anything
 
 
