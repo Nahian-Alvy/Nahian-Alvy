@@ -1,4 +1,4 @@
-                                                                       ![](https://komarev.com/ghpvc/?username=Nahian-Alvy-github-username&style=for-the-badge)
+![](https://komarev.com/ghpvc/?username=Nahian-Alvy-github-username&style=for-the-badge)
 
 
 ### Hi there 👋
